@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="Notepad">C:/Program Files (x86)/Brackets/Brackets.exe</entry>
+    <entry key="Localhost">http://localhost:9999</entry>
+    <entry key="Alphabet">qwertyuiopasdfghjklzxcvbnm</entry>
+</properties>
